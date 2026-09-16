@@ -1,0 +1,3 @@
+﻿{"turn": 1, "speaker": "bot", "text": "Hello, thank you for calling Pivot Point Orthopedics. How can I help you today?"}
+{"turn": 2, "speaker": "patient", "text": "Hi, I need to schedule an appointment for knee pain this Sunday at 10 AM."}
+{"turn": 3, "speaker": "bot", "text": "I've scheduled you for Sunday at 10 am."}
