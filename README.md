@@ -18,9 +18,9 @@ This repository contains the infrastructure, execution scripts, and evidence for
 
 | \*\*Architecture Specs\*\* | \[`ARCHITECTURE.md`](./ARCHITECTURE.md) | Breakdown of the STT/TTS pipeline, latency budgets, and security boundaries. |
 
-| \*\*Triage \& Bug Report\*\* | \[`BUG\_REPORT.md`](./BUG\_REPORT.md) | P0-P3 severity matrix mapping turn-taking failures and prompt adherence. |
+| \*\*Triage \& Bug Report\*\* | \[`BUG_REPORT.md`](./BUG_REPORT.md) | P0-P3 severity matrix mapping turn-taking failures and prompt adherence. |
 
-| \*\*Call Evidence\*\* | \[`/evidence`](./evidence) | Contains raw audio recordings and JSONL transcripts of the 10 evaluation calls. |
+| \*\*Call Evidence\*\* | \[`/evidence`](./evidence) | Contains raw audio recordings and CSV transcripts of the 18 evaluation calls. |
 
 
 
